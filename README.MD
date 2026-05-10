@@ -1,6 +1,6 @@
 **Open-source research and development for qrd855 (Engineer stuff from qcom).**
 
-The goal of this project is to provide high-quality documentation (nope), kernel sources, and tools to bring modern Linux, Windows, and Custom Android builds to SM8150 hardware (QRD and retail devices).
+The goal of this project is to provide high-quality documentation (nope), kernel sources, and tools to bring modern Linux, Windows, and Custom Android builds to qrd855.
 
 
 ## 📊 Development Status
