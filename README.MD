@@ -1,6 +1,6 @@
 **Open-source research and development for Qualcomm Snapdragon 855 (MSM8150) Platforms.**
 
-The goal of this organization is to provide high-quality documentation, kernel sources, and tools to bring modern Linux, Windows, and Custom Android builds to SM8150 hardware (QRD and retail devices).
+The goal of this project is to provide high-quality documentation (nope), kernel sources, and tools to bring modern Linux, Windows, and Custom Android builds to SM8150 hardware (QRD and retail devices).
 
 
 ## 📊 Development Status
@@ -15,5 +15,5 @@ Check our **[Real-time Status Dashboard](https://docs.google.com/spreadsheets/d/
 * **Developers:** [@oldwebcore](https://github.com/oldwebcore) | [@s3x7swag](https://github.com/s3x7swag)
 
 ---
-
+(100% NOT AI-SLOP)
 ya pidor
