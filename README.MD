@@ -18,4 +18,4 @@ Check our **[Real-time Status Dashboard](https://docs.google.com/spreadsheets/d/
 (100% NOT AI-SLOP)
 ya pidor
 
-![say gex](zHwWZ.jpg)
+![say gex](zHwWZ.jpg)(https://t.me/qrd855)
